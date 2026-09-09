@@ -1,0 +1,16 @@
+body{
+    background-color: lightyellow;
+    border: 5px dotted red;
+    color : black;
+
+}
+
+h1 {
+    color: black;
+}
+#Cl{
+    color : darkblue;
+}
+.CD{
+    color : deeppink;
+}
