@@ -1,16 +1,13 @@
 body{
-    background-color: lightyellow;
-    border: 5px dotted red;
-    color : black;
-
+    background-color:rgb(225,225,235);
 }
 
 h1 {
     color: black;
 }
-#Cl{
-    color : darkblue;
+.para{
+    color: cornflowerblue;
 }
-.CD{
-    color : deeppink;
+td{
+    text-align: center;
 }
