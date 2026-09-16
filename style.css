@@ -1,13 +1,20 @@
-body{
-    background-color:rgb(225,225,235);
+body {
+    background-color: rgb(225, 225, 235);
+}
+h1 {
+    display: none;
 }
 
-h1 {
+.logo {
     color: black;
+    font-size: 2rem;
+    font-weight: bold;
 }
-.para{
+
+.para {
     color: cornflowerblue;
 }
-td{
+
+td {
     text-align: center;
 }
